@@ -4,7 +4,7 @@ Tech Stacks Used are:
 3. Assets & Design
 4. Architechture
 
-In these the main things used are
+Main things used are
 
 From Core Technologies:
 1. HTML5
