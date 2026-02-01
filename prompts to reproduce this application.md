@@ -8,4 +8,4 @@ To Reproduce this file Follow these steps:
    f. Give the prompt "Add effect After winning or losing"   
 
  2. combine the html, css , javascript files into folder and run the html file
- 3. it will be the print of this application  
+ 3. it will be the replica of this application  
